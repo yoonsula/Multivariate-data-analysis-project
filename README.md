@@ -1,2 +1,5 @@
 # Multivariate-data-analysis-project
-체지방률에 따른 운동수행능력 분석
+# Analysis Process
+- Two-Way ANOVA
+- Two-Way MANOVA
+- Principal Component Analysis
